@@ -7,7 +7,7 @@ import {
   Button,
   useMediaQuery,
 } from "@material-ui/core";
-import avatar from "./Photo.jpg";
+import avatar from "./Photo.png";
 import Resume from "../Home/resume.pdf";
 
 // icons
